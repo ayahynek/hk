@@ -1,0 +1,3 @@
+<?php
+header("Location: https://redirect98078.web.app/");
+exit;
