@@ -28,7 +28,7 @@ if (isset($fullUrl)) {
     fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
     fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
     $fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    foreach ($fileLines as $index => $judul) {
+    foreach ($fileLines as $index => $anjai) {
         $sitemapLink = $urlAsli . '?data=' . urlencode($judul);
         fwrite($sitemapFile, '  <url>' . PHP_EOL);
         fwrite($sitemapFile, '    <loc>' . $sitemapLink . '</loc>' . PHP_EOL);
