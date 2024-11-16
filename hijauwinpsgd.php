@@ -21,7 +21,7 @@
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://i.postimg.cc/440yh1c9/FAVICON-HIJAUWIN.png" />
 <link rel="canonical" href="https://rspgd.com/" />
-<link rel="amphtml" href="https://i.ibb.co.com/nPYG5R6/DALL-E-2024-11-16-17-54-21-A-realistic-and-captivating-image-for-a-Hijauwin-Slot-Gacor-promotion-The.webp" />
+<link rel="amphtml" href="https://rspgdcom.web.app" />
 <link rel="preload" href="https://i.ibb.co.com/nPYG5R6/DALL-E-2024-11-16-17-54-21-A-realistic-and-captivating-image-for-a-Hijauwin-Slot-Gacor-promotion-The.webp" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
