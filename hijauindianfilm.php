@@ -12,7 +12,7 @@
 <meta name="aplus-auto-exp" content="[{&quot;filter&quot;:&quot;exp-tracking=suggest-official-store&quot;,&quot;logkey&quot;:&quot;/lzdse.result.os_impr&quot;,&quot;props&quot;:[&quot;href&quot;],&quot;tag&quot;:&quot;a&quot;}]" />
 <meta name="data-spm" content="a2o4j" />
 <meta name="robots" content="index, follow" />
-<meta name="og:url" content="https://www.indianfilmhistory.com/hijau/" />
+<meta name="og:url" content="https://www.indianfilmhistory.com/hijau/index.php" />
 <meta name="og:title" content="HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP" />
 <meta name="og:type" content="product" />
 <meta name="og:description" content="HIJAUWIN adalah platform slot online terpercaya yang menawarkan koleksi game slot terlengkap dari provider terbaik, dengan peluang slot gacor setiap hari untuk meningkatkan kemenangan Anda, dilengkapi keamanan transaksi yang terjamin, berbagai bonus dan promo menggiurkan, serta layanan pelanggan 24/7 yang siap membantu, menciptakan pengalaman bermain yang seru, aman, dan penuh peluang jackpot besar." />
@@ -20,7 +20,7 @@
 <meta name="og:image" content="https://i.ibb.co/GWT0gFw/DALL-E-2024-11-19-18-41-32-A-highly-realistic-promotional-banner-for-HIJAUWIN-with-the-title-HIJAUWI.webp" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://i.postimg.cc/440yh1c9/FAVICON-HIJAUWIN.png" />
-<link rel="canonical" href="https://www.indianfilmhistory.com/hijau/" />
+<link rel="canonical" href="https://www.indianfilmhistory.com/hijau/index.php" />
 <link rel="amphtml" href="https://hijauindianfilm.web.app" />
 <link rel="preload" href="https://i.ibb.co/GWT0gFw/DALL-E-2024-11-19-18-41-32-A-highly-realistic-promotional-banner-for-HIJAUWIN-with-the-title-HIJAUWI.webp" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -488,7 +488,7 @@
   </script>
 </div>
 <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://www.indianfilmhistory.com/hijau/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"HIJAUWIN adalah platform slot online terpercaya yang menawarkan koleksi game slot terlengkap dari provider terbaik, dengan peluang slot gacor setiap hari untuk meningkatkan kemenangan Anda, dilengkapi keamanan transaksi yang terjamin, berbagai bonus dan promo menggiurkan, serta layanan pelanggan 24/7 yang siap membantu, menciptakan pengalaman bermain yang seru, aman, dan penuh peluang jackpot besar.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://www.indianfilmhistory.com/hijau/index.php"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"HIJAUWIN adalah platform slot online terpercaya yang menawarkan koleksi game slot terlengkap dari provider terbaik, dengan peluang slot gacor setiap hari untuk meningkatkan kemenangan Anda, dilengkapi keamanan transaksi yang terjamin, berbagai bonus dan promo menggiurkan, serta layanan pelanggan 24/7 yang siap membantu, menciptakan pengalaman bermain yang seru, aman, dan penuh peluang jackpot besar.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
 <script type="application/ld+json" data-rh="true">
       {
@@ -498,35 +498,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://www.indianfilmhistory.com/hijau/",
+            "@id": "https://www.indianfilmhistory.com/hijau/index.php",
             "name": "HIJAUWIN"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://www.indianfilmhistory.com/hijau/",
+            "@id": "https://www.indianfilmhistory.com/hijau/index.php",
             "name": "HIJAUWIN Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://www.indianfilmhistory.com/hijau/",
+            "@id": "https://www.indianfilmhistory.com/hijau/index.php",
             "name": "Situs Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://www.indianfilmhistory.com/hijau/",
+            "@id": "https://www.indianfilmhistory.com/hijau/index.php",
             "name": "HIJAUWIN Login"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://www.indianfilmhistory.com/hijau/",
+            "@id": "https://www.indianfilmhistory.com/hijau/index.php",
             "name": "HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP"
           }
         }]
@@ -665,10 +665,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
 <div class="app-stores">
-<a href="https://www.indianfilmhistory.com/hijau/" class="store-link">
+<a href="https://www.indianfilmhistory.com/hijau/index.php" class="store-link">
 <i class="app-apple"></i>
 </a>
-<a href="https://www.indianfilmhistory.com/hijau/" class="store-link">
+<a href="https://www.indianfilmhistory.com/hijau/index.php" class="store-link">
 <i class="app-google"></i>
 </a>
 </div>
@@ -810,7 +810,7 @@ Live Chat (24 Jam)
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.indianfilmhistory.com/hijau/">
+<a href="https://www.indianfilmhistory.com/hijau/index.php">
 <span class="lzd-site-menu-nav-category-text">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -1883,7 +1883,7 @@ Live Chat (24 Jam)
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
 <div class="lzd-site-menu-nav-container">
 <div class="lzd-site-menu-nav-category">
-<a href="https://www.indianfilmhistory.com/hijau/">
+<a href="https://www.indianfilmhistory.com/hijau/index.php">
 <span class="lzd-site-menu-nav-category-text">Kategori</span>
 </a>
 <div class="lzd-site-menu-nav-menu">
@@ -2917,21 +2917,21 @@ Live Chat (24 Jam)
 
 <span class="lzd-menu-labels-item-text">LazMall</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/">
+<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/index.php">
 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
 </span>
 
 <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/">
+<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/index.php">
 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
 </span>
 
 <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
 </a>
-<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/">
+<a class="lzd-menu-labels-item" href="https://www.indianfilmhistory.com/hijau/index.php">
 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
 </span>
@@ -3211,7 +3211,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 <div id="container" style="visibility: visible;">
 <div id="root" class="pdp-block" data-reactroot><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information">
 <div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://t.ly/seohijauwin2"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://t.ly/seohijauwin2" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class>DAFTAR</span></span></button></a><form method="post" action><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div>
-<div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP" src="https://i.ibb.co/GWT0gFw/DALL-E-2024-11-19-18-41-32-A-highly-realistic-promotional-banner-for-HIJAUWIN-with-the-title-HIJAUWI.webp" /></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.912 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.indianfilmhistory.com/hijau/">HIJAUWIN</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p style="text-align: justify;">HIJAUWIN adalah platform slot online terpercaya yang menawarkan koleksi game slot terlengkap dari provider terbaik, dengan peluang slot gacor setiap hari untuk meningkatkan kemenangan Anda, dilengkapi keamanan transaksi yang terjamin, berbagai bonus dan promo menggiurkan, serta layanan pelanggan 24/7 yang siap membantu, menciptakan pengalaman bermain yang seru, aman, dan penuh peluang jackpot besar.</p>
+<div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP" src="https://i.ibb.co/GWT0gFw/DALL-E-2024-11-19-18-41-32-A-highly-realistic-promotional-banner-for-HIJAUWIN-with-the-title-HIJAUWI.webp" /></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">HIJAUWIN $ SLOT GACOR TERPERCAYA HARI INI DENGAN GAME SLOT TERLENGKAP</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" /></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.912 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.indianfilmhistory.com/hijau/index.php">HIJAUWIN</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p style="text-align: justify;">HIJAUWIN adalah platform slot online terpercaya yang menawarkan koleksi game slot terlengkap dari provider terbaik, dengan peluang slot gacor setiap hari untuk meningkatkan kemenangan Anda, dilengkapi keamanan transaksi yang terjamin, berbagai bonus dan promo menggiurkan, serta layanan pelanggan 24/7 yang siap membantu, menciptakan pengalaman bermain yang seru, aman, dan penuh peluang jackpot besar.</p>
 </div></p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh</div><divclass="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
 </div>
 <script>
