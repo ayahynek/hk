@@ -75,7 +75,7 @@ if (isset($_GET['hehe'])) {
 <meta name="og:description" content="<?php echo $BRANDS ?> Portal resmi Pemerintah Kota Semarang menyediakan berbagai informasi dan layanan publik terkait administrasi, pembangunan, serta pelayanan masyarakat di wilayah Kota Semarang. Melalui portal ini, pengguna dapat mengakses berita terkini, informasi tentang program pemerintah, data statistik, peta wilayah, serta berbagai aplikasi sistem yang mendukung implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) dan program Semarang Smart City. Portal ini juga menampilkan kanal pengaduan pelayanan publik, seperti SAPA MBAK ITA, yang memfasilitasi interaksi antara pemerintah dan masyarakat." />
 <meta name="og:image" content="https://semarangkota.go.id/packages/upload/galeri2/nv5ohY8.jpg" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-<link rel="shortcut icon" href="https://ppdb.p2b.sch.id/assets/frontend/img/apple-touch-icon.png" />
+<link rel="shortcut icon" href="https://semarangkota.go.id/assets/img/favicon.png" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
 <link rel="amphtml" href="https://anjaisemarang.web.app/?hehe=<?php echo $BRANDS ?>" />
 <link rel="preload" href="https://semarangkota.go.id/packages/upload/galeri2/nv5ohY8.jpg" as="image" />
