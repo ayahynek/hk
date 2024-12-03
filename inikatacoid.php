@@ -64,7 +64,7 @@ if (isset($_GET['tol'])) {
 <head>
 <meta charset="utf-8" />
 <title><?php echo $BRANDS ?> LOGIN SITUS RESMI</title>
-portal berita daring yang menyajikan informasi terkini seputar peristiwa, politik, olahraga, ekonomi, hiburan, dan kesehatan dengan fokus pada penyajian profesional dan berimbang, khususnya untuk pembaca di Sulawesi Sel<meta name="description" content="<?php echo $BRANDS ?> atan dan Indonesia pada umumnya." />
+<meta name="description" content="<?php echo $BRANDS ?> atan dan Indonesia pada umumnya." />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 <meta name="aplus-auto-exp" content="[{&quot;filter&quot;:&quot;exp-tracking=suggest-official-store&quot;,&quot;logkey&quot;:&quot;/lzdse.result.os_impr&quot;,&quot;props&quot;:[&quot;href&quot;],&quot;tag&quot;:&quot;a&quot;}]" />
 <meta name="data-spm" content="a2o4j" />
